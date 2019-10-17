@@ -1,5 +1,7 @@
 ## Digital Clash
 
+https://digitalclash.github.io
+
 ### Quick Start
 
 1. Buy in keys. Keys are the tokens that you need to play this game. You can exchange for them at 1 key = 1 CTXC at the second row on the right, paying directly from your Cortex wallet. Likewise, after each game, you can withdraw all your winnings back to your Cortex wallet at the third row on the right.
