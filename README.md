@@ -1,4 +1,5 @@
 ## Digital Clash
+![avatar](https://digitalclash.github.io/img/title.b9dccb23.png)
 
 https://digitalclash.github.io
 
@@ -25,6 +26,8 @@ Note that while there will be only one winning team for each round, you can stil
 The pixels on the canvas work sort of like real estate (except the buy and sell are automatic) or Fomo3d. 
 
 At the beginning of each round, you can buy any untraded pixels at the price of 1 key per pixel. Once you purchase a pixel, you can do whatever you want with it: you can draw it black, grey, or white (effectively erasing it). Then, when someone purchases it from you, they will need to pay cost = current_price × 1.35 × f(d). You will get 10% of the price difference whereas the other 90% goes into the final reward pool. (Don’t worry about the f(d). Assume it is 1 unless the balance between red and blue is severely tilted. More details on this below).
+
+![alt text](https://digitalclash.github.io/img/func.ae20b03c.jpg)
 
 For example, you are a member of the blue team, and you buy in a pixel at the price of 1 key. Later, someone from the red team wants to buy it from you (because he wants to erase your pixel to make the digit look more like a 4). He needs to pay a cost = 1 key × 1.35 × 1 = 1.35 keys. 
 
