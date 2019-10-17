@@ -1,12 +1,14 @@
-Quick Start
+### Quick Start
 
-Buy in keys. Keys are the tokens that you need to play this game. You can exchange for them at 1 key = 1 CTXC at the second row on the right, paying directly from your Cortex wallet. Likewise, after each game, you can withdraw all your winnings back to your Cortex wallet at the third row on the right.
-Pick either Red or Blue team (You will not be able to change your team again for this round).
-Start drawing on the Canvas and help your team win the game. If you’re red, try to morph the digit into any of these: 0, 1, 2, 3, 4 and if you’re blue, try to morph the digit into any of these: 5, 6, 7, 8, 9.
+1. Buy in keys. Keys are the tokens that you need to play this game. You can exchange for them at 1 key = 1 CTXC at the second row on the right, paying directly from your Cortex wallet. Likewise, after each game, you can withdraw all your winnings back to your Cortex wallet at the third row on the right.
+
+2. Pick either Red or Blue team (You will not be able to change your team again for this round).
+
+3. Start drawing on the Canvas and help your team win the game. If you’re red, try to morph the digit into any of these: 0, 1, 2, 3, 4 and if you’re blue, try to morph the digit into any of these: 5, 6, 7, 8, 9.
 
 It is strongly recommended that you carefully read the detailed game rules below to understand how to win and make $$$ in this game. This game is a blast once you can understand it, but note that this is not your average mindless game - be prepared to work your brain (you don’t need math background other than basic high school arithmetic)! Please leave a comment by opening an issue on our Github if any of the rules are unclear. 
 
-Overview
+### Overview
 
 At each round, you can pick a team, either red or blue. 
 
@@ -14,7 +16,7 @@ Your team will compete against the other by drawing/erasing pixels on the canvas
 
 Note that while there will be only one winning team for each round, you can still come away having earned money by choosing your strategy wisely. To see why this is, let’s take a deeper look at how exactly you play the game.
 
-How do I draw/erase pixels?
+### How do I draw/erase pixels?
 
 The pixels on the canvas work sort of like real estate (except the buy and sell are automatic) or Fomo3d. 
 
@@ -29,7 +31,7 @@ Why? Because the selling price (1.35 keys) is 0.35 keys higher than the buy pric
 Note that even if your team loses the game, you can still come away with a profit $$$ by buying strategic pixels which are later sold. 
 
 
-How many pixels can I draw on the Canvas at a time?
+### How many pixels can I draw on the Canvas at a time?
 
 No more than 15 at a time.
 
